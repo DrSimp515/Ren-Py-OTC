@@ -22,3 +22,10 @@ pip install tkinter
 ```
 
 This command will install the necessary libraries to run this project correctly in your Python development environment.
+
+## Available Interface Languages:
+- English.
+- Español.
+- Français.
+- Italiano.
+- Português (Brasil).
